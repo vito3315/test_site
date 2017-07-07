@@ -1,0 +1,78 @@
+{
+	"index": 
+	{
+		"name": 		"Шаблон главной страницы",
+		"full_path": 	"./content/index_template.php"
+	},
+	"category": 
+	{
+		"name": 		"Шаблон категорий товаров",
+		"full_path": 	"./content/category_template.php"
+	},
+	"custom_page": 
+	{
+		"name": 		"Шаблон пользовательских страниц",
+		"full_path": 	"./content/general_template.php"
+	},
+	"item_page": 
+	{
+		"name": 		"Шаблон товара",
+		"full_path": 	"./content/item_template.php"
+	},
+	"list_news_page": 
+	{
+		"name": 		"Шаблон страницы новостей",
+		"full_path": 	"./content/list_news_template.php"
+	},	
+	"master": 
+	{
+		"name": 		"Шаблон страницы мастер-классов",
+		"full_path": 	"./content/master_template.php"
+	},	
+	"master": 
+	{
+		"name": 		"Шаблон страницы контактов",
+		"full_path": 	"./content/kontakty_template.php"
+	},	
+	"new_items": 
+	{
+		"name": 		"Шаблон страницы новинок",
+		"full_path": 	"./content/new_items_template.php"
+	},	
+	"actions": 
+	{
+		"name": 		"Шаблон страницы товаров со скидками",
+		"full_path": 	"./content/actions_items_template.php"
+	},	
+	"reg": 
+	{
+		"name": 		"Шаблон страницы регистрации / авторизации",
+		"full_path": 	"./content/registration_template.php"
+	},	
+	"search": 
+	{
+		"name": 		"Шаблон страницы поиска",
+		"full_path": 	"./content/search_template.php"
+	},	
+	"mycart": 
+	{
+		"name": 		"Шаблон страницы корзины",
+		"full_path": 	"./content/mycart_template.php"
+	},
+	"myaccount": 
+	{
+		"name": 		"Шаблон личного кабинета",
+		"full_path": 	"./content/myccount_template.php"
+	},	
+	"compare": 
+	{
+		"name": 		"Шаблон страницы сравнения товаров",
+		"full_path": 	"./content/compare_template.php"
+	},	
+	"sitemap": 
+	{
+		"name": 		"Шаблон страницы карты сайта для пользователя",
+		"full_path": 	"./content/sitemap.php"
+	}
+	
+}

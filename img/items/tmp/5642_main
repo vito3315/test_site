@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<META name="Keywords" content="Всё для шиномонтажа+" id="Keywords">
+		<META name="Description" content="Оборудование и материалы для шиномонтажа, шиномонтажные и балансировочные станки, расходные материалы: грузики, вентили, и многое другое." id="Description">
+		<title>Всё для шиномонтажа+ - всё для шиномонтажа в Тольятти</title>	
+		
+		
+		
+								
+		<link rel="shortcut icon" href="http://rossvik63.ru/css/images/favicon.ico" type="image/x-icon">
+		
+		<!--<link rel="stylesheet" href="http://rossvik63.ru/css/bootstrap.css">
+<link rel="stylesheet" href="http://rossvik63.ru/css/semantic.min.css">
+<link rel="stylesheet" href="http://rossvik63.ru/css/MyStayles.css">
+<link rel="stylesheet" href="http://rossvik63.ru/css/materialize.css">
+<link rel="stylesheet" href="http://rossvik63.ru/css/font-awesome.min.css" />
+<link rel="stylesheet" href="http://rossvik63.ru/css/color2.css">-->
+
+
+<link rel="stylesheet" href="http://rossvik63.ru/css/all.css">
+
+<script type="text/javascript" src="http://rossvik63.ru/lib/JQuery/jquery.min.js"></script>
+<script async type="text/javascript" src="http://rossvik63.ru/lib/UI/materialize.min.js"></script>
+
+<script type="text/javascript" src="http://rossvik63.ru/lib/semantic.min.js"></script>
+
+<script async type="text/javascript" src="http://rossvik63.ru/JavaScriptUsers/init.js"></script>
+		
+	
+	</head>
+	<body class="Body">
+		<div id="body">
+			<div class="Full">
+				<div id="Content" class="Content h100I">
+					<div class="col-md-12 col-xs-12 col-sm-12 col-lg-12 h100">
+						
+<div id="Header1" class="Header" style="z-index: 3;">
+
+	<div itemscope itemtype="http://schema.org/LocalBusiness" class="disNone">
+		<meta itemprop="name" content="Всё для шиномонтажа +" />
+		Контакты:
+		<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+			Адрес:
+			<span itemprop="streetAddress">Приморский бульвар, 45</span>
+			<span itemprop="addressLocality">Тольятти</span>
+		</div>
+		Телефон:<span itemprop="telephone">+7 903 332-05-10</span><br/>
+		Электронная почта: <span itemprop="email">gva007@gmail.com</span>
+		<time itemprop="openingHours" datetime="Mo, Tu, We, Th, Fr 09:00−17:00">С понедельника по пятницу с 9 до 17 вечера</time>
+	</div>
+
+	<div class="ui grid">
+		<div style="position: absolute; width: 105%; height: 120px; z-index: -1;">
+			<img src="http://rossvik63.ru/css/images/4.jpg" style="width: 100%; height: 151px; z-index: -1;">
+		</div>
+		<div class="four wide column" style="margin-top: 7px; margin-bottom: 6px;">
+			<a href="http://rossvik63.ru/">
+				<img src="http://rossvik63.ru/css/images/hammer2.png" style="float: left; height: 73px; margin-left: 40px;">
+				<img id="img_WM" src="http://rossvik63.ru/css/images/wheel_master.png" style="float: left; margin-left: 45px;">
+			</a>
+		</div>
+		<div class="eight wide column" style="height: 104px;">
+			<span class="HeaderText" id="text_Header" style="margin-top: 32px;">Всё для шиномонтажа +</span>
+			<div class="ui search" style="width: 65%; margin: auto; height: 38px; bottom: 0px; left: -35px; right: 0px; position: absolute;">
+				<input type="text" class="prompt" placeholder="Поиск по сайту" id="search" style="height: 21px;" onblur="TestZ()">
+			</div>
+		</div>
+		<div class="four wide column">
+			<div class="JHG">
+				<span style="font-size: 18px;">Самарская обл. г. Тольятти</span>
+				<span style="font-size: 18px;">Мы работаем с 9:00 до 17:00</span>
+				<span style="font-size: 18px;">Телефон: 8 903 3320510</span>
+				<!-- <span style="font-size: 18px;">Email: gva007@gmail.com</span> -->
+			</div>
+		</div>
+		<div class="sixteen wide column" style="margin-top: -30px;">
+			<div class="ui menu" style="text-align: center;">
+				<a class="item" href="http://rossvik63.ru/" style="width: 16.6%;"><span class="w100">Каталог</span></a>
+				<a class="item" href="http://rossvik63.ru/modules/about.php" style="width: 16.6%;"><span class="w100">Контакты</span></a>
+				<a class="item" href="http://rossvik63.ru/modules/buy.php" style="width: 16.6%;"><span class="w100">Дилеры</span></a>
+				<a class="item" href="http://rossvik63.ru/modules/info.php" style="width: 16.6%;"><span class="w100">Как купить</span></a>
+				<a class="item" href="http://rossvik63.ru/news/?/all" style="width: 16.6%;"><span class="w100">Новости</span></a>
+				<!-- <a class="item" href="http://rossvik63.ru/forum/?/all" style="width: 10%;"><span class="w100">Форум</span></a> -->
+				<a class="item" href="http://rossvik63.ru/reg/" id="reg" style="width: 16.6%;"><span class="w100">Регистрация</span></a>
+				
+				<div class="ui dropdown disNone" style="width: 16.6%;" id="login5">
+					<a class="item" style="width: 100%;"><span class="w100" id="Login">   </span></a>
+					<div class="menu">
+						<div class="item"><a href="http://rossvik63.ru/myAccount/">Личный кабинет</a></div>
+						<div class="item" onclick="LogOut()">Выйти</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div> 
+
+
+<script>
+	$(document).ready(function(){		
+		$('.ui.dropdown').dropdown()
+	})
+	
+	$("#search").keyup(function(event){
+		if (event.keyCode == 13) {
+			if($( "#search" ).val().length>1)
+				location.href = window.location.protocol + '//' + window.location.host+"/catalog/search/?/"+$( "#search" ).val();
+		}
+	});
+	
+	function TestZ(){
+		if($( "#search" ).val().length>1)
+			location.href = window.location.protocol + '//' + window.location.host+"/catalog/search/?/"+$( "#search" ).val();
+	}
+	
+	function LogOut(){
+		localStorage.clear(); 
+		sessionStorage.clear(); 
+		$('#reg').show();
+		$('#login5').hide();
+		$('#Login').text(" ");
+		$('#cartCount').text(0); 
+	}
+</script>						<div style="margin-top: 104px; padding: 36px; height: 70%;">
+						
+							<p id="back-top" style="margin-left: 0px; display: none;">
+								<a href="javascript:void(0)">
+									<span>
+										<i class="fa fa-chevron-circle-up fa-4x" style="color: rgb(51, 51, 51);"></i>
+									</span>
+								</a>
+							</p>
+						
+							<div class="aaa">
+	<div class="ab">
+		<img src="http://rossvik63.ru/img/logos/clipper.png" class="ac" alt="clipper_logo">
+		<img src="http://rossvik63.ru/img/logos/maruni.png" class="ac" alt="maruni_logo">
+		<img src="http://rossvik63.ru/img/logos/logo_rtt.svg" class="ac" style="max-width: none; width: 90px;" alt="rema_tip_top_logo">
+		<img src="http://rossvik63.ru/img/logos/sibac.png" class="ac" alt="sibac_logo">
+		<img src="http://rossvik63.ru/img/logos/logo.png" class="ac" alt="rossvik_logo">
+		<img src="http://rossvik63.ru/img/logos/sivik.png" class="ac" alt="sivik_logo">
+		<img src="http://rossvik63.ru/img/logos/remax2.png" class="ac"  alt="remax_logo">
+		<img src="http://rossvik63.ru/img/logos/termopress.png" class="ac" alt="termopress_logo">
+		<img src="http://rossvik63.ru/img/logos/tech.png" class="ac" alt="tech_logo">
+	</div>
+</div> ﻿<div class="col-md-3 col-xs-3 col-sm-3 col-lg-3" id="navigationMenu" style="padding-right: 10px;">
+	<div class="" style="width: 100%;">
+		<ul class="collapsible" data-collapsible="accordion">
+			
+							<li>
+								<div class="collapsible-header to_active">Подъемники</div>
+								<div class="collapsible-body">
+									<ul class="collapsible">
+										
+								<li>
+									<a href="/catalog/?/passenger_1">
+										<div class="collapsible-header to_active">Подъемники легковые</div>
+									</a>
+								</li>
+								<li>
+									<a href="/catalog/?/passenger_2">
+										<div class="collapsible-header to_active">Подъемники грузовые</div>
+									</a>
+								</li>
+									</ul>
+								</div>
+							</li>
+							<li>
+								<div class="collapsible-header to_active">Все для шиномонтажа и шиноремонта</div>
+								<div class="collapsible-body">
+									<ul class="collapsible">
+										
+								<li>
+									<a href="/catalog/?/tire_repair_1">
+										<div class="collapsible-header to_active">Для легковых автомобилей</div>
+									</a>
+								</li>
+								<li>
+									<a href="/catalog/?/tire_repair_2">
+										<div class="collapsible-header to_active">Для грузовых автомобилей</div>
+									</a>
+								</li>
+									</ul>
+								</div>
+							</li>
+							<li>
+								<a href="/catalog/?/compressors">
+									<div class="collapsible-header to_active">Компрессоры и воздухоподготовка</div>
+								</a>
+							</li>
+							<li>
+								<a href="/catalog/?/studding_equipment">
+									<div class="collapsible-header to_active">Шиповальное оборудование</div>
+								</a>
+							</li>
+							<li>
+								<a href="/catalog/?/tools">
+									<div class="collapsible-header to_active">Инструменты</div>
+								</a>
+							</li>
+							<li>
+								<a href="/catalog/?/spare_parts">
+									<div class="collapsible-header to_active">Запчасти</div>
+								</a>
+							</li>
+							<li>
+								<a href="/catalog/?/promotional_item/items/page=1">
+									<div class="collapsible-header to_active">Рекламная продукция</div>
+								</a>
+							</li>		</ul>
+	</div>
+	<div id="notFound" style="width: 100%;">
+		<ul class="collapsible" data-collapsible="accordion">
+			<li>
+				<a href="http://rossvik63.ru/noFoundItem/">
+					<div class="collapsible-header" style="background-color: #F2711C; color: #fff;">Не нашли что искали ?</div>
+				</a>
+			</li>
+		</ul>
+	</div>
+	<!--<div id="MiniForum" style="width: 100%;">
+		<ul class="collapsible" data-collapsible="accordion">
+			<li>
+				<a href="http://rossvik63.ru/forum/?/all">
+					<div class="collapsible-header">Форум</div>
+				</a>
+			</li>
+		</ul>
+	</div>
+	<div id="MiniNews" style="width: 100%;">
+		<ul class="collapsible" data-collapsible="accordion">
+			<li>
+				<a href="http://rossvik63.ru/news/?/all">
+					<div class="collapsible-header">Новости</div>
+				</a>
+			</li>
+		</ul>
+	</div>-->
+</div>
+
+<div class="col-md-9 col-xs-9 col-sm-9 col-lg-9" style="margin-bottom: 10px; padding: 0px;">
+	<div class="ui menu" id="topMenu">
+		<a class="browse item" style="width: 28%;" href="javascript:void(0)"><span class="w100 text-center">Каталоги производителей<i class="fa fa-caret-down" style="margin-left: 20px;"></i></span></a>
+		
+		<div class="ui fluid popup bottom left transition hidden" id="testMenu2">
+			<div class="ui one column relaxed divided grid">
+				<div class="column">
+					<div class="ui link list">
+						<a class="item" href="http://rossvik63.ru/catalog/catalogs/Clipper.pdf" target="_blank">Каталог Clipper</a>
+						<a class="item" href="http://rossvik63.ru/catalog/catalogs/Rossvik.pdf" target="_blank">Каталог Rossvik</a>
+						<a class="item" href="http://rossvik63.ru/catalog/catalogs/Tech.pdf" target="_blank">Каталог Tech</a>
+						<a class="item" href="http://rossvik63.ru/catalog/catalogs/Rema_Tip_Top.pdf" target="_blank">Каталог Rema Tip Top</a>
+						<a class="item" href="http://rossvik63.ru/catalog/catalogs/Extra_Seal.pdf" target="_blank">Каталог Extra Seal</a>
+						<!--<a class="item" href="http://rossvik63.ru/php/catalog.php" target="_blank">Тест</a>-->
+					</div>
+				</div>
+			</div>
+		</div>
+		<a class="browse item" style="width: 15%;" href="http://rossvik63.ru/modules/reviews.php"><span class="w100 text-center">Мастер-класс</span></a>
+		<a class="browse item" style="width: 13%;" href="http://rossvik63.ru/php/php_excel/Examples/01simple-download-xlsx.php" target="_blank"><span class="w100 text-center">Прайс-лист</span></a>
+		<a class="browse item" style="width: 13%;" href="http://rossvik63.ru/catalog/sale"><span class="w100 text-center">Акции</span></a>
+		<a class="browse item" style="width: 13%;" href="http://rossvik63.ru/catalog/new"><span class="w100 text-center">Новинки</span></a>
+		<a class="browse item right menu" href="http://rossvik63.ru/cart/" style="width: 200px;">
+			<span id="cart">
+				<i class="fa fa-shopping-cart" style="font-size: 1.3em; margin-right: 13px;"></i> Корзина<span class="badge" id="cartCount" style="font-size: 12px;">0</span>
+			</span>
+		</a>
+
+	</div>
+	
+	
+	<frameset>
+		<frame id="frame">
+	</frameset>
+	
+	
+</div> 
+<div>
+			
+</div>
+<script>
+	function load_catalog(){
+		$.ajax({
+			url: window.location.protocol + '//' + window.location.host+"/php/catalog.php",
+			cache: false,
+			success: function(data) {
+				
+			}.bind(this)
+		});	
+	}
+
+	$(document).ready(function(){
+		$('.menu .browse')
+			.popup({
+				inline   : true,
+				hoverable: false,
+				on    	 : 'click',
+				position : 'bottom left',
+				transition: "slide down",
+				duration: 200,
+				closable: true,
+				delay: {
+					show: 300,
+					hide: 800
+				}				
+			});
+			
+	})
+</script>
+<div class="col-md-9 col-xs-9 col-sm-9 col-lg-9 minH100 Color_Content_Shadow" id="MainContent" style="margin-bottom: 30px; padding: 10px; margin-left: 0%;">
+	<h1 id="typeCatalog" style="float: left; padding-top: 11px;">Каталог</h1>
+	<input id="listType" class="disNone" style="float: left; width: auto; min-width: 250px; margin-left: 10%; display: none;">
+	<hr style="margin-top: 0px; float: left; width: 100%;">
+	<div id="TableForItems" class="col-md-12 col-xs-12 col-sm-12 col-lg-12">
+		<div class="col-md-12 col-xs-12 col-sm-12 col-lg-12" id="allItems_">
+			
+								<div class="card col-md-6 col-xs-12 col-sm-6 col-lg-4" style="height: 275px; cursor: pointer;">
+									<div class="card-image_ waves-effect waves-block waves-light valign-wrapper" style="height: 170px;">
+										<img class="activator valign" src="../img/other_images/6.jpg">
+									</div>
+									<div class="card-content" style="height: 100px;">
+										<div class="valign-wrapper" style="height: 100%;">
+											<h5 class="center-align title_cart" style="width: 100%;">Подъемники</h5>
+										</div>
+									</div>
+									<div class="card-reveal" style="opacity: 0.8; font-size: 16px;">
+										<span class="card-title grey-text text-darken-4" style="font-size: 18px;">Подъемники<i class="fa fa-close" style="float: right;"></i></span>
+										<a href="/catalog/?/passenger_1" style="width: 100%; float: left;">Подъемники легковые</a><a href="/catalog/?/passenger_2" style="width: 100%; float: left;">Подъемники грузовые</a>
+									</div>
+								</div>
+								<div class="card col-md-6 col-xs-12 col-sm-6 col-lg-4" style="height: 275px; cursor: pointer;">
+									<div class="card-image_ waves-effect waves-block waves-light valign-wrapper" style="height: 170px;">
+										<img class="activator valign" src="../img/other_images/7.jpg">
+									</div>
+									<div class="card-content" style="height: 100px;">
+										<div class="valign-wrapper" style="height: 100%;">
+											<h5 class="center-align title_cart" style="width: 100%;">Все для шиномонтажа и шиноремонта</h5>
+										</div>
+									</div>
+									<div class="card-reveal" style="opacity: 0.8; font-size: 16px;">
+										<span class="card-title grey-text text-darken-4" style="font-size: 18px;">Все для шиномонтажа и шиноремонта<i class="fa fa-close" style="float: right;"></i></span>
+										<a href="/catalog/?/tire_repair_1" style="width: 100%; float: left;">Для легковых автомобилей</a><a href="/catalog/?/tire_repair_2" style="width: 100%; float: left;">Для грузовых автомобилей</a>
+									</div>
+								</div>
+								<div class="card col-md-6 col-xs-12 col-sm-6 col-lg-4" style="height: 275px; cursor: pointer;">
+									<a href="/catalog/?/compressors" class="HGR">
+										<div class="card-image_ waves-effect waves-block waves-light" style="height: 170px;">
+											<img id="img_compressors" class="activator" src="../img/other_images/5.jpg">
+										</div>
+										<div class="card-content" style="height: 100px;">
+											<div class="valign-wrapper" style="height: 100%;">
+												<h5 class="center-align title_cart" style="width: 100%;">Компрессоры и воздухоподготовка</h5>
+											</div>
+										</div>
+									</a>
+								</div>
+								<div class="card col-md-6 col-xs-12 col-sm-6 col-lg-4" style="height: 275px; cursor: pointer;">
+									<a href="/catalog/?/studding_equipment" class="HGR">
+										<div class="card-image_ waves-effect waves-block waves-light" style="height: 170px;">
+											<img id="img_compressors" class="activator" src="../img/other_images/10.jpg">
+										</div>
+										<div class="card-content" style="height: 100px;">
+											<div class="valign-wrapper" style="height: 100%;">
+												<h5 class="center-align title_cart" style="width: 100%;">Шиповальное оборудование</h5>
+											</div>
+										</div>
+									</a>
+								</div>
+								<div class="card col-md-6 col-xs-12 col-sm-6 col-lg-4" style="height: 275px; cursor: pointer;">
+									<a href="/catalog/?/tools" class="HGR">
+										<div class="card-image_ waves-effect waves-block waves-light" style="height: 170px;">
+											<img id="img_compressors" class="activator" src="../img/other_images/9.jpg">
+										</div>
+										<div class="card-content" style="height: 100px;">
+											<div class="valign-wrapper" style="height: 100%;">
+												<h5 class="center-align title_cart" style="width: 100%;">Инструменты</h5>
+											</div>
+										</div>
+									</a>
+								</div>
+								<div class="card col-md-6 col-xs-12 col-sm-6 col-lg-4" style="height: 275px; cursor: pointer;">
+									<a href="/catalog/?/spare_parts" class="HGR">
+										<div class="card-image_ waves-effect waves-block waves-light" style="height: 170px;">
+											<img id="img_compressors" class="activator" src="../img/other_images/8.jpg">
+										</div>
+										<div class="card-content" style="height: 100px;">
+											<div class="valign-wrapper" style="height: 100%;">
+												<h5 class="center-align title_cart" style="width: 100%;">Запчасти</h5>
+											</div>
+										</div>
+									</a>
+								</div>		
+		
+			
+		</div>
+	</div>
+</div><div class="sixteen wide column" style="margin-top: -30px;">
+			<div class="ui menu" style="text-align: center;">
+				<a class="item" style="width: 16%;" href="http://rossvik63.ru/catalog/?/compressors/compressors_1" title="Купить поршневые компрессоры"><span class="w100">Поршневые компрессоры</span></a>
+				<a class="item" style="width: 16%;" href="http://rossvik63.ru/catalog/?/jacks_1/jacks_1" title="Подкатные гидравлические домкраты в Тольятти"><span class="w100">Подкатные домкраты</span></a>
+				<a class="item" style="width: 16%;" href="http://rossvik63.ru/catalog/?/passenger_1" title="Купить автомобильные подъемники"><span class="w100">Автоподъемники</span></a>
+				<a class="item" style="width: 16%;" href="http://rossvik63.ru/catalog/?/studding_equipment/spikes" title="Купить шипы в тольятти"><span class="w100">Шипы противоскольжения</span></a>
+				<a class="item" style="width: 16%;" href="http://rossvik63.ru/catalog/?/tire_repair_1" title="Купить шиномонтажное оборудование"><span class="w100">Шиномонтажное оборудование</span></a>
+				<a class="item" style="width: 20%;" href="http://rossvik63.ru/catalog/?/tire_repair_1/clipper_10" title="Купить пакеты для колес"><span class="w100">Пакеты для колес</span></a>
+			</div>
+		</div>
+<footer class="page-footer" style="margin-left: -41px;">
+	<div class="footer-copyright" id="toFooter">
+		<div data-reactroot="" class="container">© 2016 Всё для шиномонтажа+, All rights reserved.
+		
+			<span style="float: right; margin-left: 30px;">
+				<a style="color: #000;" href="http://rossvik63.ru/modules/sitemap.php">Карта сайта</a>
+			</span>
+		
+			<script type="text/javascript">
+				document.write("<a href='http://www.liveinternet.ru/stat/rossvik63.ru/' target=_blank style='float: right;'><img src='//counter.yadro.ru/hit?t17.11;r"+
+					escape(top.document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+					screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";"+Math.random()+
+				"' alt='' title='LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня' border='0' width='88' height='31'><\/a>")
+			</script>
+		</div>
+	</div>
+</footer> 						</div>	
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+	
+	<!-- RedConnect -->
+<script id="rhlpscrtg" type="text/javascript" charset="utf-8" async="async"
+src="https://web.redhelper.ru/service/main.js?c=marusiaqwerti"></script>
+<div style="display: none"><a class="rc-copyright" 
+href="http://redconnect.ru">Сервис обратного звонка RedConnect</a></div>
+<!--/RedConnect -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+	(function (d, w, c) {
+		(w[c] = w[c] || []).push(function() {
+			try {
+				w.yaCounter37632440 = new Ya.Metrika({
+					id:37632440,
+					clickmap:true,
+					trackLinks:true,
+					trackHash: true,
+					async: true,
+					accurateTrackBounce:true
+				});
+			} catch(e) { }
+		});
+
+		var n = d.getElementsByTagName("script")[0],
+			s = d.createElement("script"),
+			f = function () { n.parentNode.insertBefore(s, n); };
+		s.type = "text/javascript";
+		s.async = true;
+		s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+		if (w.opera == "[object Opera]") {
+			d.addEventListener("DOMContentLoaded", f, false);
+		} else { f(); }
+	})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/37632440" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter40050930 = new Ya.Metrika({
+                    id:40050930,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/40050930" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85276871-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</html> 

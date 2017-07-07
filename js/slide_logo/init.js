@@ -1,0 +1,1 @@
+$('.variable-width').slick({dots:false,autoplay:true,autoplaySpeed:3000,mobileFirst:true,pauseOnHover:true,slidesToShow:max,slidesToScroll:1,infinite:true,speed:500,variableWidth:false});
